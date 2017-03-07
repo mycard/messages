@@ -1,0 +1,16 @@
+{
+  "name": "mycard-messages",
+  "version": "0.0.1",
+  "scripts": {
+    "tsc": "tsc"
+  },
+  "dependencies": {
+    "pg": "^6.1.2",
+    "ws": "^2.1.0"
+  },
+  "devDependencies": {
+    "@types/pg": "^6.1.36",
+    "@types/ws": "0.0.38",
+    "typescript": "^2.2.1"
+  }
+}
